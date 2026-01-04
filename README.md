@@ -6,7 +6,7 @@ It is designed for **cybersecurity students** or anyone learning network fundame
 
 ## 📂 Files Included
 
-- **Presentation (PDF)**: [Slides.pdf](./Slides.pdf) – Visual explanation of subnetting concepts.  
+- **Presentation (PDF)**: [Slides.pdf][(./Slides.pdf)](https://github.com/alihuseynliofficial/VLAN-Subnetting-Guide/blob/main/VLAN%20Subnetting%20Network%20ID%2C%20Broadcast%2C%20and%20IP%20Visibility.pdf) – Visual explanation of subnetting concepts.  
 - **Video Demo**: Watch the video on YouTube [here][(YOUR_YOUTUBE_LINK_HERE)](https://youtu.be/HPOvLz-1bCA?si=W1hT6CtLFH4m6QOV) – Practical and theoretical explanation.
 
 ## ✅ Key Learning Objectives
