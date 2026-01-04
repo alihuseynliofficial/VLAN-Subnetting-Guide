@@ -4,18 +4,18 @@ This repository contains a **practical and theoretical guide** for VLAN subnetti
 
 It is designed for **cybersecurity students** or anyone learning network fundamentals.
 
-## 📂 Files Included
+## Files Included:
 
-- **Presentation (PDF)**: [Slides.pdf][(./Slides.pdf)](https://github.com/alihuseynliofficial/VLAN-Subnetting-Guide/blob/main/VLAN%20Subnetting%20Network%20ID%2C%20Broadcast%2C%20and%20IP%20Visibility.pdf) – Visual explanation of subnetting concepts.  
+- **Presentation (PDF)**: [(./VLAN Subnetting.pdf)](https://github.com/alihuseynliofficial/VLAN-Subnetting-Guide/blob/main/VLAN%20Subnetting%20Network%20ID%2C%20Broadcast%2C%20and%20IP%20Visibility.pdf) – Visual explanation of subnetting concepts.  
 - **Video Demo**: Watch the video on YouTube [here][(YOUR_YOUTUBE_LINK_HERE)](https://youtu.be/HPOvLz-1bCA?si=W1hT6CtLFH4m6QOV) – Practical and theoretical explanation.
 
-## ✅ Key Learning Objectives
+## Key Learning Objectives:
 
 1. Understand VLAN subnetting concepts and terminology.  
 2. Calculate network ranges and verify if IPs belong to the same VLAN.  
 3. Analyze communication between devices in the same VLAN.
 
-## 📝 Summary Table (Example)
+## Summary Table (Example):
 
 | Property            | Value             |
 |--------------------|-----------------|
@@ -24,12 +24,5 @@ It is designed for **cybersecurity students** or anyone learning network fundame
 | Last Usable IP     | 192.168.111.254 |
 | Broadcast IP       | 192.168.111.255 |
 
-## 💡 How to Use
-
-1. Review the slides for the theoretical concepts.  
-2. Watch the video to see practical calculations.  
-3. Try calculating subnet ranges for different IPs and VLANs yourself.
-
-## 🔗 Links
-
+## Links:
 - **YouTube Video**: [Watch here] https://youtu.be/HPOvLz-1bCA?si=W1hT6CtLFH4m6QOV
